@@ -28,7 +28,7 @@ Click [here](https://car-oil-change-v2.herokuapp.com/) to visit the website.
 
    [here](https://www.youtube.com/watch?v=JJ4Kh5tdTZM&ab_channel=RongchangWang)
 
-3. Finally click [here](https://drive.google.com/file/d/1Avp62ZaHleAvgI5SoEjG_2A7dIZaolqq/view?usp=share_link) to view the design Mock-up of the project, please see word attached for design documentation.
+3. Finally click [here](https://drive.google.com/file/d/1Avp62ZaHleAvgI5SoEjG_2A7dIZaolqq/view?usp=share_link) to view the updated design Mock-up of the final project, please see word attached for design documentation.
 
 ## Contributing
 
@@ -37,8 +37,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## project Milestone:
-11/15/2022 60%
-11/23/2022 100%
+12/11/2022 100%
 
 
 ## License
