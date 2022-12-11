@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3282c708.css",
+    "main.js": "/static/js/main.25c1f88a.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/Background.jpg": "/static/media/Background.35c31bdb8deeb886dc73.jpg",
+    "static/media/regular vehicles.jpg": "/static/media/regular vehicles.7e0cc85b9e2969e0dcde.jpg",
+    "static/media/Sports car.jpg": "/static/media/Sports car.77cfe9d734a2a6905c9a.jpg",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.4133309eaf232a933735.woff",
+    "static/media/Turbo charged vehicles.jpg": "/static/media/Turbo charged vehicles.37f97de21e179b6e5e25.jpg",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.cfde41d697b6dcd56fa6.woff2",
+    "static/media/imported vehicles.jpeg": "/static/media/imported vehicles.96a6fef1a3f58edfd51e.jpeg",
+    "static/media/logo.png": "/static/media/logo.16fdde70197cbb77cd9e.png",
+    "index.html": "/index.html",
+    "main.3282c708.css.map": "/static/css/main.3282c708.css.map",
+    "main.25c1f88a.js.map": "/static/js/main.25c1f88a.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3282c708.css",
+    "static/js/main.25c1f88a.js"
+  ]
+}
