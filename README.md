@@ -26,7 +26,7 @@ Click [here](https://car-oil-change-v2.herokuapp.com/) to visit the website.
 
 2. A short but in-depth video where the author speaks on the different features of the website.
 
-   [here](https://www.youtube.com/watch?v=JJ4Kh5tdTZM&ab_channel=RongchangWang)
+   [here](https://www.youtube.com/watch?v=tAAJaQOCa_U&ab_channel=RongchangWang)
 
 3. Finally click [here](https://drive.google.com/file/d/1Avp62ZaHleAvgI5SoEjG_2A7dIZaolqq/view?usp=share_link) to view the updated design Mock-up of the final project, please see word attached for design documentation.
 
