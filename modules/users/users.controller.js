@@ -54,6 +54,7 @@ class UsersController {
       }
       res.status(200).json({token, user: oldUser});
     } catch (err) {
+      console.log(err)
       res.status(500).send(err);
     }
   }
