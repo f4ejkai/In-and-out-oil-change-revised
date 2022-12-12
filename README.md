@@ -36,12 +36,12 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-## project Milestone:
+## project Milestone
 12/11/2022 100%
 
 And click [here](https://drive.google.com/file/d/1NStAN21f8k43PVZxNqOSr3gDFT4zbDSx/view?usp=share_link) to review all userability test scale 1-5 feedback is in this google form response
 
-## Useability Studies videos:
+## Useability Studies videos
 User one  [here](https://www.youtube.com/watch?v=rEcLh9zWBrY&ab_channel=RongchangWang)
 
 User Two  [here](https://www.youtube.com/watch?v=CdWhru1fVqk&ab_channel=RongchangWang)
