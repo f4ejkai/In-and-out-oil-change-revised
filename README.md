@@ -41,6 +41,10 @@ Please make sure to update tests as appropriate.
 
 And click [here](https://drive.google.com/file/d/1NStAN21f8k43PVZxNqOSr3gDFT4zbDSx/view?usp=share_link) to review all userability test scale 1-5 feedback is in this google form response
 
+## Useability Studies videos:
+User one  [here](https://www.youtube.com/watch?v=rEcLh9zWBrY&ab_channel=RongchangWang)
+User Two  [here](https://www.youtube.com/watch?v=CdWhru1fVqk&ab_channel=RongchangWang)
+User Three [here](https://www.youtube.com/watch?v=vm4pJajpfdQ&ab_channel=RongchangWang)
 
 ## License
 
