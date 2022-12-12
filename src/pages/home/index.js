@@ -17,25 +17,25 @@ export const Home = () => {
           <thead>
             <tr>
               <th scope="col" >
-                <img src={RegularImage} width={200}/>
+                <img src={RegularImage} alt='xx' width={200}/>
                 <p>
                   Regular vehicles
                 </p>
               </th>
               <th scope="col" >
-                <img src={ImportImage} width={200}/>
+                <img src={ImportImage} alt='xx' width={200}/>
                 <p>
                   Import Vehicles
                 </p>
               </th>
               <th scope="col">
-                <img src={TurbochargedImage} width={200}/>
+                <img src={TurbochargedImage} alt='xx' width={200}/>
                 <p>
                   Turbocharged Vehicles
                 </p>
               </th>
               <th scope="col"  >
-                <img width={200} src={SportsImage}/>
+                <img width={200} alt='xx' src={SportsImage}/>
                 <p>
                   Sports Car
                 </p>

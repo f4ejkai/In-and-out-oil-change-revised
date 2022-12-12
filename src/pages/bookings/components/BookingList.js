@@ -4,10 +4,10 @@ export const BookingList = ({bookings}) => {
   return (
     <table className="table">
       <thead>
-      <tr>
-        <th scope="col">#</th>
-        <th scope="col">Oil Type</th>
-        <th scope="col">Date</th>
+      <tr >
+        <th role='columnheader'>#</th>
+        <th role='columnheader'>Oil Type</th>
+        <th role='columnheader'>Date</th>
       </tr>
       </thead>
       <tbody>

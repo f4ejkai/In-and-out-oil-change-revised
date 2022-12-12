@@ -29,22 +29,22 @@ export const Bookings = () => {
   }, [refresh]);
   return (
     <main className={'container mt-4'}>
-      <h2 className={'text-center text-black fw-bold'}>
+      <h1 className={'text-center text-black fw-bold'}>
         Welcome: {username}
-      </h2>
+      </h1>
       <form onSubmit={handleSubmit} className={'mt-3 w-75 m-auto'}>
         <h3>Booking new maintain</h3>
         <div className={'mb-3'}>
-          <label className={'form-label'}>Desired service date</label>
-          <input className={'form-control w-25'}
+          <label htmlFor="date" className={'form-label'}>Desired service date</label>
+          <input id='date' className={'form-control w-25'}
                  required
                  value={date}
                  onChange={e => setDate(e.target.value)}
                 type={'datetime-local'}/>
         </div>
         <div className={'mb-3'}>
-          <label className={'form-label'}>Desired oil type</label>
-          <select value={type} onChange={e => setType(e.target.value)} required className={'form-select w-25'}>
+          <label htmlFor="type" className={'form-label'}>Desired oil type</label>
+          <select id='type' value={type} onChange={e => setType(e.target.value)} required className={'form-select w-25'}>
             <option value={'0W-20'}>0W-20</option>
             <option value={'5W-30'}>5W-30</option>
             <option value={'5W-40'}>5W-40</option>
@@ -52,8 +52,8 @@ export const Bookings = () => {
           </select>
         </div>
         <div>
-          <button className={'btn btn-primary'}>Book</button>
-        </div>
+          <button role='submit' type="button" className={'btn btn-primary'}>Book</button>
+        </div> 
       </form>
       {success && (
         <div>

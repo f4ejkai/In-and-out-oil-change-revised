@@ -10,6 +10,8 @@ authedRequest.interceptors.request.use(function (config) {
   }
   return config
 }, function (err) {
+ 
+  alert(err.response.data)
   return Promise.reject(err)
 })
 

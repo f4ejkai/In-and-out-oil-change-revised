@@ -15,7 +15,7 @@ function App() {
       <div className={'container-fluid p-0'} style={{position: "relative", zIndex: 10}}>
 
         <Header />
-        <main>
+        <div>
           <Routes>
             <Route path={''} element={<Home />}/>
             <Route path={'best-price'} element={<BestPrices />} />
@@ -27,7 +27,7 @@ function App() {
               </ProtectedRoute>
             }/>
           </Routes>
-        </main>
+        </div>
       </div>
     </>
   );
